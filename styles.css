@@ -1,4 +1,4 @@
-.site-header{ background-color:aquamarine;
+.site-header{ background-color:rgba(203, 180, 123, 0.681);
 }
 
 
@@ -8,15 +8,20 @@
 
 .site-header,.main-content,.site-footer { padding: 30px;}
 
-body,h1,,h2,h3,ul,{ margin: 0;}
+body,h1,h2,h3,ul { margin: 0;}
 
 
 
 
 
 .site-footer{
-background-color: bisque;
-color: blue;}
+background-color: rgba(107, 189, 200, 0.566);
+color: rgb(0, 0, 0);}
 
 
-.site-footer a { color: blue;}
+
+
+.main-content { background-color: rgba(104, 167, 104, 0.568);}
+
+.para { line-height: 30px;
+font-weight: 30px;}
