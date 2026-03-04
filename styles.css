@@ -21,7 +21,10 @@ color: rgb(0, 0, 0);}
 
 
 
-.main-content { background-color: rgba(104, 167, 104, 0.568);}
+.main-content { background-color: rgba(104, 167, 104, 0.568);
+    text-emphasis: 0}
 
 .para { line-height: 30px;
-font-weight: 30px;}
+}
+
+
