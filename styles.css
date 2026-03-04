@@ -1,0 +1,22 @@
+.site-header{ background-color:aquamarine;
+}
+
+
+
+
+
+
+.site-header,.main-content,.site-footer { padding: 30px;}
+
+body,h1,,h2,h3,ul,{ margin: 0;}
+
+
+
+
+
+.site-footer{
+background-color: bisque;
+color: blue;}
+
+
+.site-footer a { color: blue;}
